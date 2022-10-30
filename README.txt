@@ -5,3 +5,4 @@
 
 3.Algunos algoritmos pueden tardar mucho tiempo.
 
+4. Finalmente se puede visualizar la sustentación del articulo en el siguiente video: https://youtu.be/LvXekXnVSKs
